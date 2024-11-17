@@ -1,5 +1,5 @@
 # Multiplication-Table
-"A Python script to print the multiplication table for any number entered by the user, using a for loop."
+A Python script to print the multiplication table for any number entered by the user, using a for loop.
 
 This project contains a Python script that generates a multiplication table for any number entered by the user. The script uses a `for` loop and demonstrates basic programming concepts.
 
